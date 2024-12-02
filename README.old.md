@@ -24,3 +24,5 @@ Components:
     >> PosterSlider   PosterSliderComponenet.jsx
 
 npx create-react-app .
+
+https://api.themoviedb.org/3/movie/550?api_key=16e582dc32d2ca316397e0c63509b8db

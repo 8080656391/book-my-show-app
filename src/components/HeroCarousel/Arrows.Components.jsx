@@ -17,7 +17,7 @@ export function PrevArrow(props) {
     <>
       <div
         className={props.className}
-        style={{ ...props.style }}
+        style={{ color: "red", padding: "10px" }}
         onClick={props.onClick}
       ></div>
     </>
